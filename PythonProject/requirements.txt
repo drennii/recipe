@@ -2,6 +2,3 @@ fastapi
 uvicorn
 pydantic
 python-dotenv
-requests
-streamlit
-pandas
